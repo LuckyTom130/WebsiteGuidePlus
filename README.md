@@ -1,6 +1,6 @@
 <h1 align="center">WebsiteGuide</h1>
 
-<div align="center">WebsiteGuide网址导航系统主要用于企业记录和管理内部系统地址，具有网址增删改查、icon图标替换等功能，后续考虑增加访客日志、收藏和其他功能，欢迎使用和交流~</div>
+<div align="center">WebsiteGuide网址导航系统主要用于企业记录和管理内部系统地址，具有网址增删改查、icon图标替换等功能，后续增加访客日志、收藏等功能，欢迎使用交流</div>
 
 
 
